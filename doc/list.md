@@ -31,3 +31,6 @@ http://jinnianshilongnian.iteye.com/category/206533
 
 11.Jekens 持续集成
 http://blog.csdn.net/wangmuming/article/details/22925127
+
+12.IM
+https://github.com/a2888409/face2face
