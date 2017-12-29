@@ -16,21 +16,22 @@
 5.http://blog.csdn.net/zmx729618/article/details/51096593
 
 6.QueryDSL通用查询框架学习目录
-https://www.jianshu.com/p/99a5ec5c3bd5
+  https://www.jianshu.com/p/99a5ec5c3bd5
 
 7.https://www.jianshu.com/p/615ed9c1fe84
 
 8.spring security
-http://blog.csdn.net/column/details/springsecurity.html
+  http://blog.csdn.net/column/details/springsecurity.html
+  http://hotstrong.iteye.com/blog/1160153
 
 9.spring-shiro
-http://jinnianshilongnian.iteye.com/blog/2018936/
+  http://jinnianshilongnian.iteye.com/blog/2018936/
 
 10.spring 
 http://jinnianshilongnian.iteye.com/category/206533
 
 11.Jekens 持续集成
-http://blog.csdn.net/wangmuming/article/details/22925127
+  http://blog.csdn.net/wangmuming/article/details/22925127
 
 12.IM
-https://github.com/a2888409/face2face
+  https://github.com/a2888409/face2face
