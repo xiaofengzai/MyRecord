@@ -35,3 +35,11 @@ http://jinnianshilongnian.iteye.com/category/206533
 
 12.IM
   https://github.com/a2888409/face2face
+  
+13.前后端分离和token
+  http://www.leeyom.top/2017/11/04/fontend-backend-separation/
+  https://github.com/wangleeyom/code-artisan
+  
+13.Android
+  https://github.com/francistao/LearningNotes
+  
