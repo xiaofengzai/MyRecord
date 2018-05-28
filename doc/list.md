@@ -56,4 +56,8 @@ http://jinnianshilongnian.iteye.com/category/206533
  17.opengl
  
    https://www.jianshu.com/p/d83a519ae2d0
+   
+ 18.VR 
+   
+   http://www.52vr.com/
   
