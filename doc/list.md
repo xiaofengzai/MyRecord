@@ -60,4 +60,8 @@ http://jinnianshilongnian.iteye.com/category/206533
  18.VR 
    
    http://www.52vr.com/
+
+19.opencv
+
+    http://www.mamicode.com/info-detail-2247860.html
   
