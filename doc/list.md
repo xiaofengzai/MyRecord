@@ -64,4 +64,8 @@ http://jinnianshilongnian.iteye.com/category/206533
 19.opencv
 
     http://www.mamicode.com/info-detail-2247860.html
+    
+20. daydayup
+  
+    https://github.com/ITDragonBlog/daydayup
   
